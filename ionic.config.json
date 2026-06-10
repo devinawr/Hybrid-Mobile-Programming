@@ -1,0 +1,7 @@
+{
+  "name": "Kecebong",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
